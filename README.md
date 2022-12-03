@@ -1,2 +1,2 @@
 # Responsive_webpage_navbar
-https://github.com/zainah7/Responsive_webpage_navbar.git
+https://zainah7.github.io/Responsive_webpage_navbar/
